@@ -4,7 +4,7 @@ GitHub Casting Practice
 
 Writed at Home
 
-# Friday Last Lecture
+# **Friday Last Lecture**
 
 * Learning Markdown
 * Learning Flutter 
